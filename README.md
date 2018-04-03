@@ -2,7 +2,7 @@
 
 ##### Epicodus Section: JavaScript OO - Address Book
 
-#### By Kristen Chellis and Matt Miller
+#### By Kristen Chellis and Matt Miller and Cory West-Forbes
 
 ## Description
 
@@ -18,7 +18,7 @@ JavaScript and jQuery
 
 ### Legal
 
-Copyright (c) 2018 **Kristen Chellis Matt Miller**
+Copyright (c) 2018 **Kristen Chellis Matt Miller Cory West-Forbes**
 
 This software is licensed under the MIT license.
 
